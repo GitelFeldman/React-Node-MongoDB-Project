@@ -71,10 +71,6 @@ A fully responsive e-commerce store built with React, enabling users to browse, 
   - Authentication  
   - Cart management  
 
-### **Deployment** 🚀  
-- The project is deployed live on **Netlify** for easy access and testing.  
-
----
 
 ## **Technologies Used**
 
@@ -83,13 +79,3 @@ A fully responsive e-commerce store built with React, enabling users to browse, 
 - **State Management:** Redux Toolkit  
 - **Forms:** React-Hook-Form  
 - **Backend Integration:** REST API (e.g., Axios for HTTP requests)  
-- **Deployment:** Netlify  
-
----
-
-## **Installation & Setup**
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
